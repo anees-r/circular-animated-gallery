@@ -83,6 +83,7 @@ footer{
     will-change: transform;
     backface-visibility: visible;
     overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
 
 .title-container{

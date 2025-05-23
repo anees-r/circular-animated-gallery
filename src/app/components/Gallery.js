@@ -316,7 +316,7 @@ export default function Gallery() {
       </div>
       <div className="title-container"></div>
       <div className="desc-text-container">
-        <p className="desc-text">Check out these Photographs!</p>
+        <p className="desc-text">Check out these Flowers!</p>
       </div>
     </div>
   );
